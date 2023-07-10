@@ -1,10 +1,10 @@
 ## Flygency Development Guidelines
 
-Welcome to the Flygency codebase! Here, we outline our guidelines for branching, merging, and overall code management. Follow these steps to ensure a smooth and efficient development process. Let's revolutionize the travel industry together!
+Welcome to the Flygency codebase! Here, we outline our branching, merging, and overall code management guidelines. Follow these steps to ensure a smooth and efficient development process. Let's revolutionize the travel industry together!
 
 # Branching
 
-We use a feature branching workflow. This means you should create a new branch for every task or bug fix.
+We use a feature branching workflow. You should create a new branch for every task or bug fix.
 
 ### To create a new branch:
 
@@ -58,7 +58,7 @@ git merge feature/your-feature-branch
 git push origin development
 ```
 
-You should also open a pull request so your code can be reviewed before merging into the **development** branch.
+You should also open a pull request to review your code before merging into the **development** branch.
 
 # Pull Requests
 
