@@ -26,6 +26,13 @@ git pull origin development
 git checkout -b feature/feature-name-yourname
 ```
 
+3. Create a new commit. Follow the naming convention **DONE: Issue:#10, Customer list done** on another line **TODO: Teams list pending todo**:
+
+
+```
+git checkout -b feature/feature-name-yourname
+```
+
 Remember to regularly merge the **development** branch into your feature branch to prevent major conflicts at the end.
 
 # Merging
