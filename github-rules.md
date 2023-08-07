@@ -30,7 +30,8 @@ git checkout -b feature/feature-name-yourname
 
 
 ```
-git checkout -b feature/feature-name-yourname
+DONE: Issue:#10, Customer list done
+TODO: Teams list pending todo
 ```
 
 Remember to regularly merge the **development** branch into your feature branch to prevent major conflicts at the end.
