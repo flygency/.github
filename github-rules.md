@@ -26,9 +26,7 @@ git pull origin development
 git checkout -b feature/feature-name-yourname
 ```
 
-3. Create a new commit. Follow the naming convention **DONE: Issue:#10, Customer list done** on another line **TODO: Teams list pending todo**:
-
-
+3. Commit message format must be like this given example:
 ```
 DONE: Issue:#10, Customer list done
 TODO: Teams list pending todo
